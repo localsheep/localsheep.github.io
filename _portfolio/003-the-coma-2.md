@@ -27,14 +27,13 @@ Gökdeniz Özkan
 ###### Localization Specialist(s)
 Altan Aktaş  
 Ege Koşar  
-Emir Gülcan  
 Gökdeniz Özkan  
 Mehmetcan Kayatürk  
 Mustafa Sapmaz
 ###### Quality Tester(s)
 To be defined
 ### Related links:
-#### [![Steam](https://store.cloudflare.steamstatic.com/public/images/v6/logo_steam_footer.png)](https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/)  |  [Glossary](https://docs.google.com/spreadsheets/d/1R2pvatM9Nd5puMpw2INbtL6j7uGjZefL5l0HUyIkvS0/edit?usp=sharing)
+#### [![Steam](https://store.cloudflare.steamstatic.com/public/images/v6/logo_steam_footer.png)](https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/)  |  [Glossary](localsheep.com)
 {:.list-inline}
 - Status: {{page.status}}
 - Year: {{page.year}}
