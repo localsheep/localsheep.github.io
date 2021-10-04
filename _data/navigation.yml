@@ -21,6 +21,8 @@ en: &DEFAULT_EN
     #  section: team
     - title: "Contact"
       section: contact
+    - title: "Support Us"
+      url: "https://kreosus.com/localsheep"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -63,3 +65,5 @@ tr: &DEFAULT_TR
       section: team
     - title: "İletişim"
       section: contact
+    - title: "Destek Ol"
+      url: "https://kreosus.com/localsheep"
