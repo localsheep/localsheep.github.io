@@ -30,6 +30,9 @@ Mehmetcan Kayatürk
 Ege Koşar  
 Altan Aktaş  
 Mustafa Sapmaz  
+###### Proofreader(s)
+Gökdeniz Özkan  
+Mehmetcan Kayatürk  
 ###### Quality Tester(s)
 To be defined
 ### Related links:
