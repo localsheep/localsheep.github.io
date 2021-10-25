@@ -28,7 +28,7 @@ Gökdeniz Özkan
 Gökdeniz Özkan  
 Mehmetcan Kayatürk  
 Ege Koşar  
-Altan Aktaş
+Altan Aktaş  
 Mustafa Sapmaz  
 ###### Quality Tester(s)
 To be defined
