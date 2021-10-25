@@ -1,6 +1,6 @@
 ---
 loccount: 003
-status: "Ongoing"
+status: "Finished"
 year: 2021
 category: "Game Localization"
 client: "Devespresso Games"
@@ -25,11 +25,11 @@ alt: the coma 2 wallpaper steam image
 ###### Project Manager(s)
 Gökdeniz Özkan
 ###### Localization Specialist(s)
-Altan Aktaş  
-Ege Koşar  
 Gökdeniz Özkan  
 Mehmetcan Kayatürk  
-Mustafa Sapmaz
+Ege Koşar  
+Altan Aktaş
+Mustafa Sapmaz  
 ###### Quality Tester(s)
 To be defined
 ### Related links:
