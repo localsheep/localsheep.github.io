@@ -34,7 +34,9 @@ Mustafa Sapmaz
 Gökdeniz Özkan  
 Mehmetcan Kayatürk  
 ###### Quality Tester(s)
-To be defined
+Gökdeniz Özkan  
+Ege Koşar  
+Altan Aktaş  
 ### Related links:
 #### [![Steam](https://store.cloudflare.steamstatic.com/public/images/v6/logo_steam_footer.png)](https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/)  |  [Glossary](https://docs.google.com/spreadsheets/d/1ot1dYgcJIXZ6C-1Avlj3LrrsSm2w3xIO/edit?usp=sharing&ouid=101857902793245332208&rtpof=true&sd=true)
 {:.list-inline}
